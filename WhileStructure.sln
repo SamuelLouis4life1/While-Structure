@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandPrice", "LandPrice\Land
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlderPerson", "OlderPerson\OlderPerson.csproj", "{2344C1EF-C37F-4214-9E4C-9C4844957ED2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DollarQuotation", "DollarQuotation\DollarQuotation.csproj", "{F289F9BF-6CCF-409E-BD5E-4C2E41806D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWithStaticMethod", "CalculatorWithStaticMethod\CalculatorWithStaticMethod.csproj", "{F9B56F5F-07B9-47B1-A247-69C4C812ADBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{2344C1EF-C37F-4214-9E4C-9C4844957ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2344C1EF-C37F-4214-9E4C-9C4844957ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2344C1EF-C37F-4214-9E4C-9C4844957ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F289F9BF-6CCF-409E-BD5E-4C2E41806D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F289F9BF-6CCF-409E-BD5E-4C2E41806D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F289F9BF-6CCF-409E-BD5E-4C2E41806D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F289F9BF-6CCF-409E-BD5E-4C2E41806D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B56F5F-07B9-47B1-A247-69C4C812ADBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B56F5F-07B9-47B1-A247-69C4C812ADBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B56F5F-07B9-47B1-A247-69C4C812ADBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B56F5F-07B9-47B1-A247-69C4C812ADBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
